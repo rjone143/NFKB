@@ -1,0 +1,5 @@
+model,n_seeds,prop_K_positive,prop_R_positive,prop_Phi_positive,prop_all_three_positive,all_mean_trends_positive,all_mean_trends_significant,coordinated_covariation_on_means
+M3_ODC,5,0.6,1.0,1.0,0.6,True,False,False
+M2p_HMM,5,0.6,1.0,1.0,0.6,True,False,False
+M4_CTRW,5,0.6,1.0,1.0,0.6,True,False,False
+M5_AR1,5,0.6,1.0,0.0,0.0,False,True,False
