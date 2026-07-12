@@ -1,0 +1,5 @@
+model,all_slopes_positive,all_trends_significant,coordinated_covariation
+M3_ODC,True,True,True
+M2p_HMM,False,False,False
+M4_CTRW,False,False,False
+M5_AR1,False,False,False
